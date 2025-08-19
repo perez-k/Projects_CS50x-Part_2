@@ -27,6 +27,7 @@ A Python program that identifies a person based on their DNA by comparing Short 
 $ python dna.py databases/large.csv sequences/5.txt
 Cedric
 ```
+(Cedric is the first name of the person whose DNA matches the tested DNA.)
 
 ```bash
 $ python dna.py databases/large.csv sequences/10.txt
