@@ -27,8 +27,6 @@ I developed practical coding skills through weekly problem sets and a Final Proj
 
 
 
-
-
 ## Contents
 
 - `pset6`: DNA analysis (in Python)
@@ -39,5 +37,5 @@ I developed practical coding skills through weekly problem sets and a Final Proj
 
 
 ## Certificate
-![CS50x Certificate](/images/Certificat_CS50x_letter.png)
+![CS50x Certificate](images/Certificat_CS50x_letter.png)
 
