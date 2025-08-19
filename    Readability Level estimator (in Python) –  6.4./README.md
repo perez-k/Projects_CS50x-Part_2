@@ -13,7 +13,7 @@ The program counts:
 
 It then applies the Coleman–Liau formula to estimate the U.S. grade level required to comprehend the text:  
 
-\[text{index} = 0.0588 \times L - 0.296 \times S - 15.8\]
+
 $$
 \text{index} = 0.0588\,L - 0.296\,S - 15.8
 $$
