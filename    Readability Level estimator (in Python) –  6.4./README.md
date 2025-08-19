@@ -1,5 +1,5 @@
 
-# 📖 Week 6 – Readability  
+# 📖 Readability Level estimator 
 
 ### Description
 A Python program that determines the U.S. **reading grade level** of a given text using the **Coleman–Liau index**. The program counts the number of letters, words, and sentences to estimate how difficult the text is to read. 
