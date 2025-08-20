@@ -21,10 +21,10 @@ A simple functional homepage that adjusts layout and styling across devices and 
 
 ![](/images/Homepage%20–%208.1./site%20web%20homepage%20cs50.png)
 
-Clicking the button at the top takes you to the corresponding page with details and pictures of cats, dogs, fish, or hamsters available at the store.
+Clicking the button at the top takes you to the corresponding page with details and pictures of cats, dogs, fish, or hamsters available at the store.\
 
 
-Cute.
-Have you ever seen website with a better styling? 
-Yes, of course. And me too!
+Cute.\
+Have you ever seen website with a better styling? \
+Yes, of course. And me too! \
 But, this is how a started my small journey in webdesign, with my first website. 😀 😊
