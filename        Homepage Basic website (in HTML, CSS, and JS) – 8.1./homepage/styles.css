@@ -1,0 +1,28 @@
+body
+{
+    background-color : gray;
+}
+
+table
+{
+    border: 1px solid black;
+
+    border-collapse : 'collapse';
+}
+
+th
+{
+    border: 1px solid black;
+
+    border-collapse : 'collapse';
+    background-color: orange;
+}
+
+td
+{
+    border: 1px solid black;
+
+    border-collapse : 'collapse';
+
+
+}

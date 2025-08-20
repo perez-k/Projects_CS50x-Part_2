@@ -56,7 +56,7 @@ There may be multiple people named Kevin Bacon in the database. Be sure to only 
 Kevin Bacon himself should not be included in the resulting list.
 
 
-Note: The database was too heavy to be added to the repository. You can find it directly on [cs50 website](https://cs50.harvard.edu/college/2020/spring/psets/7/movies/)
+**Note: The database was too heavy to be added to the repository. You can find it directly on [cs50 website](https://cs50.harvard.edu/college/2020/spring/psets/7/movies/)**
 
 
 ### **Key Concepts**
