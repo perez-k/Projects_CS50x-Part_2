@@ -15,11 +15,13 @@ Focuses on structuring webpage content, applying responsive design principles, a
 ---
 
 ### **Example Output**
-A fully functional, responsive static homepage that adjusts layout and styling seamlessly across devices and screen sizes.
+A simple functional homepage that adjusts layout and styling across devices and screen sizes.
 
 ---
 
 ![](/images/Homepage%20–%208.1./site%20web%20homepage%20cs50.png)
+
+Clicking the button at the top takes you to the corresponding page with details and pictures of cats, dogs, fish, or hamsters available at the store.
 
 
 Cute.
