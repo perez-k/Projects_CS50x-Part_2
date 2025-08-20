@@ -11,4 +11,4 @@ function blink()
     }
 }
 
-window.setInterval(blink, 1000);
+window.setInterval(blink, 5000);
