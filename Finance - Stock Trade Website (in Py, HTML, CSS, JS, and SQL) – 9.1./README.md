@@ -30,5 +30,7 @@ The main Python file is application.py
 ![Image Finance](/images/Finance%20–%209.1./cs50%20finance_2024.png)
 
 
+PS: Unfortunately, IEX Cloud, the provider of the financial data through the API, stopped working in 2024.
+The app remains functional, but real-time stock data retrieval is no longer available without replacing the API provider. 
 ---
 
