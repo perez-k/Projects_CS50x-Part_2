@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+
+{% block title %}Portfolio{% endblock %}
+
+{% block main %}
+    <table class="table table-striped">
+        <tr>
+            <th>Symbol</th>
+             <th>Name</th>
+             <th>Shares</th>
+             <th>Price</th>
+             <th>TOTAL</th>
+        </tr>
+
+
+        {% for row in A: %}
+        <tr>
+            <td>{{row["symbole"]}}</td> <td>{{row["name"]}}</td> <td>{{row["ownedsharesnumber"]}}</td> <td>{{row["currentprice"]}}</td>  <td>{{row["totalval"] }}</td>
+
+        </tr>
+        {% endfor %}
+
+
+
+        <tr>
+            <td>CASH</td><td></td><td></td><td></td><td>{{ cash }}</td>
+        </tr>
+        <tfoot>
+              <tr>
+                    <td></td><td></td><td></td><td></td><td>{{ grandtotal }}</td>
+              </tr>
+        </tfoot>
+
+    </table>
+
+
+
+
+{% endblock %}
