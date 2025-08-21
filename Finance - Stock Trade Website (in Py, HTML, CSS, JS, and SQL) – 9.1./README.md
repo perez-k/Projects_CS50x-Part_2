@@ -26,6 +26,8 @@ The main Python file is application.py
 - **History** – View detailed transaction logs with timestamps and prices
 - **Portfolio** – Display current holdings with current market valuations  
 
+![Image Finance](/images/Finance%20–%209.1./cs50%20finance_2024.png)
+
 
 ---
 
