@@ -32,5 +32,7 @@ The main Python file is application.py
 
 PS: Unfortunately, IEX Cloud, the provider of the financial data through the API, stopped working in 2024.
 The app remains functional, but real-time stock data retrieval is no longer available without replacing the API provider. 
+Just as a reminder I worked on this project in 2020
 ---
+
 
