@@ -4,11 +4,9 @@
 
 **Programming Language Used: Python, HTML, JavaScript, CSS**
 
-# HealthCalcul
-
 ---
 
-## **Overview**
+## Overview
 **HealthCalcul** is a web application built with **Python**, **HTML**, **JavaScript**, and **CSS** that helps users:
 - Calculate **Body Mass Index** (BMI / Quetelet's index)
 - Determine **Ideal Weight** (Robinson's formula)
@@ -17,6 +15,7 @@
 - Learn about **nutritional health** through educational resources
 
 ---
+## A few screenshots
 ![image1](/images/Final/Screenshot%201.png)
 ![image2](/images/Final/Screenshot%202.png)
 ![image3](/images/Final/Screenshot%203%20(2).png)
