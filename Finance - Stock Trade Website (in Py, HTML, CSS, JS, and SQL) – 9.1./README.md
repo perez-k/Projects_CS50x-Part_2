@@ -17,6 +17,7 @@ Users can “buy” and “sell” stocks with virtual cash, track portfolio per
 
 
 ---
+The main Python file is application.py
 
 ### **Example Features**
 - **Register/Login** – Register and securely log into accounts  
