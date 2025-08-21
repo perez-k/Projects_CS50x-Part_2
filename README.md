@@ -9,7 +9,7 @@ Projects in Python, JavaScript, SQL, HTML, CSS (No C projects)
 **Completed in Septembre 2020**
 
 ## Overview
-This repository contains the second half of my [HarvardX's CS50x 2020](https://cs50.harvard.edu/college/2020/fall/syllabus/) programming projects. 
+This repository contains the second half of my [HarvardX's CS50x 2020](https://cs50.harvard.edu/college/2020/spring/syllabus/) programming projects. 
 I developed practical coding skills through weekly problem sets and a Final Project, using C, Python, SQL, and JavaScript. 
 
 **⚡ Languages Covered**
