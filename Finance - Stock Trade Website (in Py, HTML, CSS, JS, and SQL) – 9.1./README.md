@@ -1,5 +1,5 @@
-# Finance - Stock Trading Market Simulation Website \ 
-(in Python [Flask], HTML, CSS, JavaScript, and SQL for the database)
+# Finance - Stock Trading Market Simulation Website
+**Tech stack: Python (Flask), HTML, CSS, JavaScript, and SQL for the database**
 
 A Python (Flask) and SQL-based web application simulating a stock trading platform.  
 Implements user authentication (users can register, log in, and manage his/her virtual portfolio), real-time stock price retrieval via API calls, and transaction logging.  
