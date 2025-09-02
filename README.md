@@ -1,12 +1,12 @@
 # Projects_CS50x 
 Projects in C, or Python, JavaScript, HTML, CSS
+## CS50x: Introduction to Computer Science (HarvardX, 2020)
+**Completed in Septembre 2020**
 
 # Projects_CS50x (Part_2)
 Projects in Python, JavaScript, SQL, HTML, CSS (No C projects)
 
 
-# CS50x: Introduction to Computer Science (HarvardX, 2020)
-**Completed in Septembre 2020**
 
 ## Overview
 This repository contains the second half of my [HarvardX's CS50x 2020](https://cs50.harvard.edu/college/2020/spring/syllabus/) programming projects. 
