@@ -32,7 +32,7 @@ I developed practical coding skills through weekly problem sets and a Final Proj
 - `pset8`: [Homepage Basic website (in HTML, CSS, and JavaScript)](/%20%20%20%20%20%20%20Homepage%20Petstore%20Basic%20website%20(in%20HTML%2C%20CSS%2C%20and%20JS)%20%E2%80%93%208.1.)
 - `pset9`: [Finance - Stock Trade Website (in Py, HTML, CSS, JS, and SQL)](/%20%20%20%20%20%20%20%20Finance%20-%20Stock%20Trade%20Website%20%28in%20Py%2C%20HTML%2C%20CSS%2C%20JS%2C%20and%20SQL%29%20%E2%80%93%209.1.))
 Website with Flask and JavaScript (Web)
-- `final_project`: [Project Name/Description](/%20%20%20%20%20%20%20%20%20HealthCalcul%20-%20Nutrition%20Calculator%20%28Final%2910.1.)
+- `final_project`: [Basic NutriCalcul](/%20%20%20%20%20%20%20%20%20NutriCalcul%20-%20Nutrition%20Calculator%20%28Final%2910.1.)
 
 
 

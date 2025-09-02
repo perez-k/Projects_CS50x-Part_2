@@ -1,13 +1,13 @@
 # CS50's FINALE PROJECT (Introduction to Computer Science)
 
-## Name: HealthCalcul - Nutition calculator
+## Name: NutriCalcul - Nutition calculator
 
 **Programming Language Used: Python, HTML, JavaScript, CSS**
 
 ---
 
 ## Overview
-**HealthCalcul** is a web application built with **Python**, **HTML**, **JavaScript**, and **CSS** that helps users:
+**NutriCalcul** is a web application built with **Python**, **HTML**, **JavaScript**, and **CSS** that helps users:
 - Calculate **Body Mass Index** (BMI / Quetelet's index)
 - Determine **Ideal Weight** (Robinson's formula)
 - Estimate **Daily Energy Requirements** (Black's formula)
