@@ -18,11 +18,11 @@ I developed practical coding skills through weekly problem sets and a Final Proj
 
 
 
-```
+<!-- 
 **Topics covered** 
 
-📚 Topics Covered in this second part include: (Weeks 6-10
-```
+📚 Topics Covered in this second part include: (Weeks 6-10)
+-->
 
 
 ### Contents
