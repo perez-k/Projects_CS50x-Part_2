@@ -29,9 +29,10 @@ I developed practical coding skills through weekly problem sets and a Final Proj
 
 - `pset6`: [Mario Pyramid generator (in Python)](/%20Mario%20Pyramid%20generator%20(in%20Python)%20–%206.2./); [Cash Coin change (in Python)](/%20%20Cash%20Coin%20change%20(in%20Python)%20–%20%206.3./); [Readability Level estimator (in Python)](/%20%20%20Readability%20Level%20estimator%20(in%20Python)%20–%20%206.4./); [DNA Profiling (in Python)](/%20%20%20%20DNA%20Profiling%20(in%20Python)%20–%206.5./)
 - `pset7`: [Movie Database querying (in SQL)](/%20%20%20%20%20Movie%20Database%20querying%20(in%20SQL)%20–%207.1./); [Hogwarts House queries (in Py and SQL)](/%20%20%20%20%20%20Hogwarts%20House%20queries%20(in%20Py%20and%20SQL)%20–%207.2./)
-- `pset8`: Homepage Basic website (in HTML, CSS, and JavaScript)
+- `pset8`: [Homepage Basic website (in HTML, CSS, and JavaScript)](/%20%20%20%20%20%20%20Homepage%20Petstore%20Basic%20website%20(in%20HTML%2C%20CSS%2C%20and%20JS)%20%E2%80%93%208.1.)
+- `pset9`: [Finance - Stock Trade Website (in Py, HTML, CSS, JS, and SQL)](/%20%20%20%20%20%20%20%20Finance%20-%20Stock%20Trade%20Website%20%28in%20Py%2C%20HTML%2C%20CSS%2C%20JS%2C%20and%20SQL%29%20%E2%80%93%209.1.))
 Website with Flask and JavaScript (Web)
-- `final_project`: [Project Name/Description]
+- `final_project`: [Project Name/Description](/%20%20%20%20%20%20%20%20%20HealthCalcul%20-%20Nutrition%20Calculator%20%28Final%2910.1.)
 
 
 
