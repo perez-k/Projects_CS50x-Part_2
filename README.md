@@ -1,7 +1,6 @@
 # Projects_CS50x 
 Projects in C, or Python, JavaScript, HTML, CSS
-## CS50x: Introduction to Computer Science (HarvardX, 2020)
-**Completed in Septembre 2020**
+**CS50x: Introduction to Computer Science (HarvardX, 2020) - Completed in Septembre 2020**
 
 # Projects_CS50x (Part_2)
 Projects in Python, JavaScript, SQL, HTML, CSS (No C projects)
