@@ -1,6 +1,6 @@
 # CS50's FINALE PROJECT (Introduction to Computer Science)
 
-## Name: NutriCalcul - Nutrition calculator
+## Name: NutriCalcul - Nutrition calculator (HealthCalcul)
 
 **Programming Language Used: Python, HTML, JavaScript, CSS**
 
@@ -21,6 +21,8 @@
 ![image3](/images/Final/Screenshot%203%20(2).png)
 ![image4](/images/Final/Screenshot%204.png)
 ![image5](/images/Final/Screenshot%205.png)
+![image6](/images/Final/Screenshot%206.png)
+![image7](/images/Final/Screenshot%207.png)
 ---
 
 
