@@ -18,7 +18,7 @@
 ## A few screenshots
 
 
-<img src="/images/Final/Screenshot%201.png" alt="placeholder" width="50%" height="50%">
+<img src="/images/Final/Screenshot%201.png" alt="placeholder" width="20%" height="20%">
 
 ![image1](/images/Final/Screenshot%201.png) 
 
