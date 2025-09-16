@@ -16,10 +16,12 @@
 
 ---
 ## A few screenshots
+<div style="display: flex; flex-direction: row;">
+  <img src="/images/Final/Screenshot%201.png" alt="image1" width="20%" height="20%"> 
+  <img src="/images/Final/Screenshot%202.png" alt="image2" width="20%" height="20%">
+  <img src="/images/Final/Screenshot%203%20(2).png" alt="image3" width="20%" height="20%">
+</div>
 
-<img src="/images/Final/Screenshot%201.png" alt="image1" width="20%" height="20%">
-<img src="/images/Final/Screenshot%202.png" alt="image2" width="20%" height="20%">
-<img src="/images/Final/Screenshot%203%20(2).png" alt="image3" width="20%" height="20%">
 <img src="/images/Final/Screenshot%204.png" alt="image4" width="20%" height="20%">
 <img src="/images/Final/Screenshot%205.png" alt="image5" width="20%" height="20%">
 <img src="/images/Final/Screenshot%206.png" alt="image6" width="20%" height="20%">
