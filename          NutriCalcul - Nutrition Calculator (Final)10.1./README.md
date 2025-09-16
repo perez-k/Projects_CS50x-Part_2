@@ -18,7 +18,7 @@
 ## A few screenshots
 <div style="display: flex; flex-direction: row;">
   <img src="/images/Final/Screenshot%201.png" alt="image1" width="20%" height="20%"> 
-  <img src="/images/Final/Screenshot%202.png" alt="image2" width="400%" height="40%">
+  <img src="/images/Final/Screenshot%202.png" alt="image2" width="40%" height="40%">
   <img src="/images/Final/Screenshot%203%20(2).png" alt="image3" width="20%" height="20%">
 </div>
 <div style="display: flex; flex-direction: row;">
