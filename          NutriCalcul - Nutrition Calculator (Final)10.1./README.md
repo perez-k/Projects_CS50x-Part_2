@@ -17,7 +17,7 @@
 ---
 ## A few screenshots
 
-<div style="width: 60%; height: 60%">![image1](/images/Final/Screenshot%201.png)</div>
+<div style="width: 60%; height: 60%"> ![image1](/images/Final/Screenshot%201.png) </div>
 ![image2](/images/Final/Screenshot%202.png)
 ![image3](/images/Final/Screenshot%203%20(2).png)
 ![image4](/images/Final/Screenshot%204.png)
