@@ -14,7 +14,7 @@ I developed practical coding skills through weekly problem sets and a Final Proj
 **⚡ Languages Covered**
 - This repository (Part 2) contains the projects in: **Python, SQL, JavaScript, HTML, CSS**
 
-- Another repository [(Part 1)](https://github.com/AI-Health-Master/Projects_CS50x/) contains the projects in: **C**
+- Another repository [(Part 1)](https://github.com/AI-Health-Master/Projects_CS50x-Part_1/) contains the projects in: **C**
 
 
 
