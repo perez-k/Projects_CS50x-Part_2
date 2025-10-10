@@ -110,7 +110,7 @@ The **History** feature makes the application valuable by allowing users to:
 
 # Appreciation for the CS50 Experience
 
-I enjoy the training and would like to express my sincere appreciation to the cs50' team.
+I enjoyed the training and would like to express my sincere appreciation to the cs50' team.
 
 Sincerely yours.
 
